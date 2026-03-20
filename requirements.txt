@@ -1,0 +1,8 @@
+# Core framework
+fastapi==0.135.1
+
+# ASGI server
+uvicorn[standard]==0.42.0
+
+# Data validation
+pydantic==2.12.5
